@@ -1,0 +1,14 @@
+@charset "utf-8";
+html {font-size: 62.5%;}
+html,body, #app, #layout{ height: 100%; }
+@font-face{
+    font-family:'reducto_condensed_ssiCn';
+    src:url('../fonts/reducto_condensed_ssi_condensed-webfont.eot');
+    src:url('../fonts/reducto_condensed_ssi_condensed-webfont.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/reducto_condensed_ssi_condensed-webfont.woff2') format('woff2'),
+        url('../fonts/reducto_condensed_ssi_condensed-webfont.woff') format('woff'),
+        url('../fonts/reducto_condensed_ssi_condensed-webfont.ttf') format('truetype'),
+        url('../fonts/reducto_condensed_ssi_condensed-webfont.svg#reducto_condensed_ssiCn') format('svg');
+    font-weight:normal;
+    font-style:normal
+}
